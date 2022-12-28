@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Sherlock and the Valid String/1.0.0": {
+        "runtime": {
+          "Sherlock and the Valid String.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sherlock and the Valid String/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

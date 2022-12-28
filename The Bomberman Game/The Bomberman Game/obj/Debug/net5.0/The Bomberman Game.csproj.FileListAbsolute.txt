@@ -1,0 +1,16 @@
+C:\Users\Valentyn\source\repos\HackerRank\The Bomberman Game\The Bomberman Game\bin\Debug\net5.0\The Bomberman Game.exe
+C:\Users\Valentyn\source\repos\HackerRank\The Bomberman Game\The Bomberman Game\bin\Debug\net5.0\The Bomberman Game.deps.json
+C:\Users\Valentyn\source\repos\HackerRank\The Bomberman Game\The Bomberman Game\bin\Debug\net5.0\The Bomberman Game.runtimeconfig.json
+C:\Users\Valentyn\source\repos\HackerRank\The Bomberman Game\The Bomberman Game\bin\Debug\net5.0\The Bomberman Game.runtimeconfig.dev.json
+C:\Users\Valentyn\source\repos\HackerRank\The Bomberman Game\The Bomberman Game\bin\Debug\net5.0\The Bomberman Game.dll
+C:\Users\Valentyn\source\repos\HackerRank\The Bomberman Game\The Bomberman Game\bin\Debug\net5.0\The Bomberman Game.pdb
+C:\Users\Valentyn\source\repos\HackerRank\The Bomberman Game\The Bomberman Game\obj\Debug\net5.0\The Bomberman Game.csproj.AssemblyReference.cache
+C:\Users\Valentyn\source\repos\HackerRank\The Bomberman Game\The Bomberman Game\obj\Debug\net5.0\The Bomberman Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valentyn\source\repos\HackerRank\The Bomberman Game\The Bomberman Game\obj\Debug\net5.0\The Bomberman Game.AssemblyInfoInputs.cache
+C:\Users\Valentyn\source\repos\HackerRank\The Bomberman Game\The Bomberman Game\obj\Debug\net5.0\The Bomberman Game.AssemblyInfo.cs
+C:\Users\Valentyn\source\repos\HackerRank\The Bomberman Game\The Bomberman Game\obj\Debug\net5.0\The Bomberman Game.csproj.CoreCompileInputs.cache
+C:\Users\Valentyn\source\repos\HackerRank\The Bomberman Game\The Bomberman Game\obj\Debug\net5.0\The Bomberman Game.dll
+C:\Users\Valentyn\source\repos\HackerRank\The Bomberman Game\The Bomberman Game\obj\Debug\net5.0\refint\The Bomberman Game.dll
+C:\Users\Valentyn\source\repos\HackerRank\The Bomberman Game\The Bomberman Game\obj\Debug\net5.0\The Bomberman Game.pdb
+C:\Users\Valentyn\source\repos\HackerRank\The Bomberman Game\The Bomberman Game\obj\Debug\net5.0\The Bomberman Game.genruntimeconfig.cache
+C:\Users\Valentyn\source\repos\HackerRank\The Bomberman Game\The Bomberman Game\obj\Debug\net5.0\ref\The Bomberman Game.dll

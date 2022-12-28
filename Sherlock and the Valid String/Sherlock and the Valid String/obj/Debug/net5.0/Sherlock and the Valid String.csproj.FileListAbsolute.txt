@@ -1,0 +1,16 @@
+C:\Users\Valentyn\source\repos\HackerRank\Sherlock and the Valid String\Sherlock and the Valid String\bin\Debug\net5.0\Sherlock and the Valid String.exe
+C:\Users\Valentyn\source\repos\HackerRank\Sherlock and the Valid String\Sherlock and the Valid String\bin\Debug\net5.0\Sherlock and the Valid String.deps.json
+C:\Users\Valentyn\source\repos\HackerRank\Sherlock and the Valid String\Sherlock and the Valid String\bin\Debug\net5.0\Sherlock and the Valid String.runtimeconfig.json
+C:\Users\Valentyn\source\repos\HackerRank\Sherlock and the Valid String\Sherlock and the Valid String\bin\Debug\net5.0\Sherlock and the Valid String.runtimeconfig.dev.json
+C:\Users\Valentyn\source\repos\HackerRank\Sherlock and the Valid String\Sherlock and the Valid String\bin\Debug\net5.0\Sherlock and the Valid String.dll
+C:\Users\Valentyn\source\repos\HackerRank\Sherlock and the Valid String\Sherlock and the Valid String\bin\Debug\net5.0\Sherlock and the Valid String.pdb
+C:\Users\Valentyn\source\repos\HackerRank\Sherlock and the Valid String\Sherlock and the Valid String\obj\Debug\net5.0\Sherlock and the Valid String.csproj.AssemblyReference.cache
+C:\Users\Valentyn\source\repos\HackerRank\Sherlock and the Valid String\Sherlock and the Valid String\obj\Debug\net5.0\Sherlock and the Valid String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valentyn\source\repos\HackerRank\Sherlock and the Valid String\Sherlock and the Valid String\obj\Debug\net5.0\Sherlock and the Valid String.AssemblyInfoInputs.cache
+C:\Users\Valentyn\source\repos\HackerRank\Sherlock and the Valid String\Sherlock and the Valid String\obj\Debug\net5.0\Sherlock and the Valid String.AssemblyInfo.cs
+C:\Users\Valentyn\source\repos\HackerRank\Sherlock and the Valid String\Sherlock and the Valid String\obj\Debug\net5.0\Sherlock and the Valid String.csproj.CoreCompileInputs.cache
+C:\Users\Valentyn\source\repos\HackerRank\Sherlock and the Valid String\Sherlock and the Valid String\obj\Debug\net5.0\Sherlock and the Valid String.dll
+C:\Users\Valentyn\source\repos\HackerRank\Sherlock and the Valid String\Sherlock and the Valid String\obj\Debug\net5.0\refint\Sherlock and the Valid String.dll
+C:\Users\Valentyn\source\repos\HackerRank\Sherlock and the Valid String\Sherlock and the Valid String\obj\Debug\net5.0\Sherlock and the Valid String.pdb
+C:\Users\Valentyn\source\repos\HackerRank\Sherlock and the Valid String\Sherlock and the Valid String\obj\Debug\net5.0\Sherlock and the Valid String.genruntimeconfig.cache
+C:\Users\Valentyn\source\repos\HackerRank\Sherlock and the Valid String\Sherlock and the Valid String\obj\Debug\net5.0\ref\Sherlock and the Valid String.dll

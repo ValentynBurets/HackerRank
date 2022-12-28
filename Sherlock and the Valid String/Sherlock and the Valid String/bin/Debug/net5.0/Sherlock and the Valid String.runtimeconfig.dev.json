@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Valentyn\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Valentyn\\.nuget\\packages"
+    ]
+  }
+}
